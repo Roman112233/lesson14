@@ -3,3 +3,13 @@
 *::after {
   box-sizing: border-box;
 }
+.header {
+  width: 1000px;
+  height: 300px;
+  margin: 150px 300px 100px 300px;
+  display: block;
+}
+.block h1 {
+  background: brown;
+  text-transform: capitalize;
+}
